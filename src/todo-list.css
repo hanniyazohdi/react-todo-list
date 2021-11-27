@@ -1,0 +1,10 @@
+.todo-list{
+    background-color: blanchedalmond;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+    font-size: 16px;
+}
+
+label{
+    color: black;
+}

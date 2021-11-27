@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    margin: 4em;
+}
+
+input{
+    padding: 10px 40px;
+}
+
+button{
+    font-family: 'Poppins', sans-serif;
+    padding: 8px 15px;
+    margin: 1em 0em;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
